@@ -25,7 +25,7 @@ In a past life I was a United States Marine.  That phase lasted about 9 years an
 
 I spend most of my free time in Azeroth (#NotSorry) with fantasies of being the lead tank for <a href="http://www.method.gg" target="_blank">Method</a>.  And yes, I still run an Arms Warrior.  #StillNotSorry  I’ve played Warcraft since it was something called “shareware.”  
 
-Go ahead and check out my other stuff (I promise it’s much less boring).  
+Go ahead and check out my other stuff (I promise it’s less boring).  
 
 For hugs or bugs, hit me up at any of the social media links on the left (post it public… #NotScared)
 or if that’s not your thing, email me: CodesAFK(at)gmail.com. 
