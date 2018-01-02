@@ -44,7 +44,7 @@ The stack:
    havick@whiskey-jack bloggah]$  
  {%endhighlight%}
  
- My terminal might look different than yours.  I use a Arch Linux with KDE, because I have an elitist complex.
+ My terminal might look different than yours.  I use a version of Arch Linux with KDE, because I have an elitist complex.
  
  Now that we're in our directory we'll use ```npm init``` to generate the package.json file for us.
  Answer or press Enter for each of the prompts, and enter 'y' at the end to confirm.  Anything that you aren't interested in 
