@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloggah Layout I
-description: "Settling the score between dynamically-typed and statically-typed languages."
+description: "Adding SemaniticUI to our Bloggah application"
 modified: 2017-03-17
 tags: [JavaScript, How To, Node, Express, SemanticUI]
 categories: [How To Node | Bloggah |]
@@ -17,7 +17,7 @@ make our app a little more...  *aesthetically pleasing*.  Enter:
 <h2>SemanticUI</h2>
 <!--more-->
 I realize a lot of people are committed to Bootstrap, and hey, I love Bootstrap as much as the next guy.  But, SemanticUI solves one of
-the only problems I have with Bootstrap.  *Semantics* (See what they did there?  Brilliant).  Using Bootstrap defaults we'd style
+the only problems I have with Bootstrap.  *Semantics* (See what they did there?  Brilliant.)  Using Bootstrap defaults we'd style
 a button like:
 
 {%highlight html%}
@@ -35,7 +35,7 @@ a button like:
   {%endhighlight%}
   
   See?  Easier, human readable format.  Isn't that what this is all about?  Otherwise we'd all just code on a single line.
-  Anyway, the above snippet give us:
+  Anyway, the above snippet would give us:
 
  <button class="ui secondary button">
    Dark
