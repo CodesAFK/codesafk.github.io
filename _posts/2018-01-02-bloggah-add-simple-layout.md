@@ -15,7 +15,7 @@ And today it's time to move on to bigger and better things.  Before we define an
 make our app a little more...  *aesthetically pleasing*.  Enter:
 
 <h2>SemanticUI</h2>
-
+<!--more-->
 I realize a lot of people are committed to Bootstrap, and hey, I love Bootstrap as much as the next guy.  But, SemanticUI solves one of
 the only problems I have with Bootstrap.  *Semantics* (See what they did there?  Brilliant).  Using Bootstrap defaults we'd style
 a button like:
