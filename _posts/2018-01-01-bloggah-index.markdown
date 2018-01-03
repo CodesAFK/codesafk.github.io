@@ -7,15 +7,16 @@ tags: [JavaScript, How To, Node, Express, SemanticUI]
 categories: [How To Node | Bloggah |]
 ---
 
-#How To: The 'Bloggah' Project!
+<h1>How To: The 'Bloggah' Project!</h1>
 
 **Index and Inital Setup**
 
 Today we're going to start a Fullstack project called 'Bloggah'(In case you hadn't guessed that yet!)
 I'm going to assume that you already have npm and mongod(for mongoDB) installed on your machine.  If not, you can find install directions relative 
-to your machine <a href="https://nodejs.org/en/download/" target="_blank">here</a>(npm) and.
+to your machine <a href="https://nodejs.org/en/download/" target="_blank">here</a>(npm) and
 <a href="https://nodejs.org/en/download/" target="_blank">here</a>(mongoDB).  Mongod needs to be running in a terminal instance
 the entire time we're working on this or the database portion of our app will break (so basically, unless you want to display blank pages... install the dependencies.)
+ <!--more-->
 
 The stack:
   <ul>
@@ -28,7 +29,7 @@ The stack:
  First things first, open up your favorite IDE (or unfold your table napkin) so you can follow along.
  I'll be using WebStorm made by the fine folks over at <a href="https://www.jetbrains.com" target="_blank"> JetBrains</a>.
  
- I know, I know, it's a *gasp***paid IDE**, but in my honest opinion, worth every penny.  And no, I'm not 
+ I know, I know, it's a *gasp*** paid IDE**, but in my honest opinion, worth every penny.  And no, I'm not 
  sponsored by them.  I'm just a dirty little fanboy.  Anyway, like I said, pick any editor you feel comfortable with.  Except Eclipse.
  Don't be that guy.
  

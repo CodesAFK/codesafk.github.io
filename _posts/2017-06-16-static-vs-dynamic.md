@@ -26,7 +26,7 @@ the debate can become quite heated.  First let’s discuss the differences.
 => 3.2567894
 
 {%endhighlight%}
-
+<!--more-->
 The above snippet is in Javascript (which is a dynamically typed language). 
 Our variable x, is able to change types at will.  The reason that this is
 legal and fair is because Javascript, and most dynamic languages, are interpreted rather
