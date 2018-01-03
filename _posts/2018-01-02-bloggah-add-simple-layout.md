@@ -41,7 +41,7 @@ a button like:
    Dark
  </button>
  
- Like I said, I love bootstrap.  I'm just falling in love with SemanticUI and if I fall to hard, I may not be able to come back home.
+ Like I said, I love bootstrap.  I'm just falling in love with SemanticUI and if I fall too hard, I may not be able to come back home.
  But that's between me and Twitter, let's get to this layout.
  
  Open up app.js and add the following:
