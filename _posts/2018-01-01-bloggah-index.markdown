@@ -9,7 +9,7 @@ categories: [How To Node | Bloggah |]
 
 <h1>How To: The 'Bloggah'</h1>
 
-**Index and Inital Setup**
+**Index/Inital Setup**
 
 Today we're going to start a Fullstack project called 'Bloggah'(In case you hadn't guessed that yet!)
 I'm going to assume that you already have npm and mongod(for mongoDB) installed on your machine.  If not, you can find install directions relative 
