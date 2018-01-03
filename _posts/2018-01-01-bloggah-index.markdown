@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Bloggah Index and Initial Setup
-description: "Settling the score between dynamically-typed and statically-typed languages."
+description: "Building a Node.js Blog Application"
 modified: 2017-03-17
 tags: [JavaScript, How To, Node, Express, SemanticUI]
 categories: [How To Node | Bloggah |]
 ---
-
 <h1>How To: The 'Bloggah'</h1>
 
 **Index/Inital Setup**
