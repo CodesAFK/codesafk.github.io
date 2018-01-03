@@ -7,7 +7,7 @@ tags: [JavaScript, How To, Node, Express, SemanticUI]
 categories: [How To Node | Bloggah |]
 ---
 
-<h1>How To: The 'Bloggah' Project!</h1>
+<h1>How To: The 'Bloggah'</h1>
 
 **Index and Inital Setup**
 
