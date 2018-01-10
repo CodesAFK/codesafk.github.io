@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba8ade3a-83b6-46c0-9295-56469f6367f3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2017-01-03-Blogah-Adding-Views.md" afterPath="$PROJECT_DIR$/_posts/2017-01-03-Blogah-Adding-Views.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-03-Blogah-Adding-Views.md" afterPath="$PROJECT_DIR$/_posts/2018-01-03-Blogah-Adding-Views.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,12 +29,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-01-03-Blogah-Adding-Views.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-01-03-Blogah-Adding-Views.md">
+      <file leaf-file-name="2018-01-03-Blogah-Adding-Views.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Blogah-Adding-Views.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="216">
-                <caret line="27" column="99" lean-forward="false" selection-start-line="27" selection-start-column="99" selection-end-line="27" selection-end-column="99" />
+              <first_editor relative-caret-position="144">
+                <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -117,6 +117,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-12-25-static-vs-dynamic.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-01-03-Blogah-Adding-Views.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-03-Blogah-Adding-Views.md" />
       </list>
     </option>
   </component>
@@ -163,6 +164,11 @@
             <path>
               <item name="codesafk.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="codesafk.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codesafk.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codesafk.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,12 +221,12 @@
       <workItem from="1514783966059" duration="16037000" />
       <workItem from="1514868935902" duration="12739000" />
       <workItem from="1514903299821" duration="13603000" />
-      <workItem from="1515607836968" duration="6293000" />
+      <workItem from="1515607836968" duration="6431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50942000" />
+    <option name="totallyTimeSpent" value="51080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="52" width="1600" height="864" extended-state="6" />
@@ -593,11 +599,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-03-Blogah-Adding-Views.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Blogah-Adding-Views.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="216">
-            <caret line="27" column="99" lean-forward="false" selection-start-line="27" selection-start-column="99" selection-end-line="27" selection-end-column="99" />
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

@@ -2,7 +2,7 @@
 layout: post
 title: Bloggah Adding Views
 description: "Adding Views to our Bloggah application"
-modified: 2017-03-17
+modified: 2018-01-03
 tags: [JavaScript, How To, Node, Express, SemanticUI]
 categories: [How To Node | Bloggah |]
 ---
