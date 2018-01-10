@@ -28,7 +28,7 @@ The stack:
  First things first, open up your favorite IDE (or unfold your table napkin) so you can follow along.
  I'll be using WebStorm made by the fine folks over at <a href="https://www.jetbrains.com" target="_blank"> JetBrains</a>.
  
- I know, I know, it's a *gasp*** paid IDE**, but in my honest opinion, worth every penny.  And no, I'm not 
+ I know, I know, it's a *gasp* **paid IDE**, but in my honest opinion, worth every penny.  And no, I'm not 
  sponsored by them.  I'm just a dirty little fanboy.  Anyway, like I said, pick any editor you feel comfortable with.  Except Eclipse.
  Don't be that guy.
  

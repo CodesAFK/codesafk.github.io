@@ -2,10 +2,9 @@
 layout: post
 title: Pick Your Poison
 description: "Settling the score between dynamically-typed and statically-typed languages."
-modified: 2017-03-17
+modified: 2017-12-25
 tags: [Java, JavaScript, General Theory]
 categories: [Theory]
-
 ---
 
 ### Is your poison Static or Dynamic? 
