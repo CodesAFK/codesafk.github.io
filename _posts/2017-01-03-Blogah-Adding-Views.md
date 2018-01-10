@@ -25,7 +25,7 @@ From terminal because we're pros:
 
 As always, note the ```.ejs``` extension on the view files.
 
-Now that we have the pages made, let's open up app.js and start defining some routes...
+Now that we have the pages made, let's open up app.js and start defining some routes... <!--more-->
 
 Just below the ```app.get('/')``` and ```app.get('/posts')``` routes, place the following for ```new``` route:
 {%highlight javascript%}
